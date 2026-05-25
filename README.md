@@ -14,7 +14,7 @@ The project includes:
 - Google Sheets
 - Excel
 - GitHub
-- Tableau (upcoming)
+- Tableau
 
 ## KPIs Tracked
 - No-Show Rate %
